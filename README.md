@@ -5,8 +5,8 @@ Autoři práce - Team01 (Tomáš Andrš & Jan Hromada)
 pip install scikit-image</p>
 pip install matplotlib</p>
 # Spuštění programu
-Ukázka pro jeden obrázek (image001.jpg)</p>
+Ukázka pro dva obrázky (image001.jpg a image002.jpg)</p>
 ● bez vizualizace:</p>
-python run.py output.json image001.jpg</p>
+python run.py output.json image001.jpg image002.jpg</p>
 ● s vizualizací:</p>
-python run.py output.json -v image001.jpg</p>
+python run.py output.json -v image001.jpg image002.jpg</p>
