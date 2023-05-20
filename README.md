@@ -1,5 +1,5 @@
 # ZDO_Team01
-(Semestrální práce z předmětu KKY/ZDO 2022/2023)[https://colab.research.google.com/drive/1FcMHURYvcRL5lt8T5Yk715hJ0R9-dq6-?usp=sharing] - Incision quality evaluation</p>
+Semestrální práce z předmětu KKY/ZDO 2022/2023 - Incision quality evaluation</p>
 Autoři práce - Team01 (Tomáš Andrš & Jan Hromada)
 # Instalace
 pip install scikit-image</p>
