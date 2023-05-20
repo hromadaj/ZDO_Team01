@@ -2,7 +2,7 @@
 Semestrální práce z předmětu KKY/ZDO 2022/2023 - Incision quality evaluation</p>
 Autoři práce - Team01 (Tomáš Andrš & Jan Hromada)
 # Instalace
-<p>pip install scikit-image</p>
+pip install scikit-image
 pip install matplotlib
 # Spuštění programu
 ● bez vizualizace:
