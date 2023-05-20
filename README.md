@@ -1,6 +1,6 @@
 # ZDO_Team01
 Semestrální práce z předmětu KKY/ZDO 2022/2023 - Incision quality evaluation
-<p>Autoři práce - Team01 (Tomáš Andrš & Jan Hromada)<br>
+<p>Autoři práce - Team01 (Tomáš Andrš & Jan Hromada)
 # Instalace
 pip install scikit-image
 pip install matplotlib
