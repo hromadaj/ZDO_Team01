@@ -7,5 +7,5 @@ pip install matplotlib</p>
 # Spuštění programu
 ● bez vizualizace:</p>
 python run.py output.json image001.jpg</p>
-● s vizualizací</p>
+● s vizualizací:</p>
 python run.py output.json -v image001.jpg</p>
